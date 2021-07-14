@@ -6,9 +6,9 @@ class Pessoa {
 
 }
 
-fun main(args: Array<String>){
-    val Carlos = Pessoa()
+fun main() {
+    val carlos = Pessoa()
 
-    println(Carlos.name)
-    println(Carlos.cpf)
+    println(carlos.name)
+    println(carlos.cpf)
 }
