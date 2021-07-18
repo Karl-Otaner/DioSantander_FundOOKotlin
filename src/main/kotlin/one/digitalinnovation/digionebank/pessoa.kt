@@ -12,8 +12,6 @@ class Pessoa {
 
 fun main() {
     val carlos = Pessoa()
-
-
     println(carlos.pessoalinf())
 
 
